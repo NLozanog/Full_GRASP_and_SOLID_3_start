@@ -1,3 +1,6 @@
+/*
+Clase creada para cumplir con polimorfismo
+*/
 using System;
 using System.IO;
 
